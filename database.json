@@ -794,7 +794,7 @@
       "lastberbru": 0
     },
     "6281937587327@s.whatsapp.net": {
-      "exp": 340460,
+      "exp": 840618,
       "limit": 100,
       "lastclaim": 1655189078282,
       "registered": true,
@@ -808,12 +808,12 @@
       "level": 25,
       "role": "Beginner",
       "autolevelup": false,
-      "money": 9384,
+      "money": 809384,
       "net": 0,
       "wallet": 0,
       "bank": 0,
       "health": 70,
-      "potion": 24,
+      "potion": 74,
       "trash": 2033,
       "wood": 29,
       "rock": 70,
@@ -824,8 +824,8 @@
       "iron": 4,
       "common": 0,
       "uncommon": 0,
-      "mythic": 0,
-      "legendary": 0,
+      "mythic": 20,
+      "legendary": 10,
       "pet": 2,
       "horse": 0,
       "horseexp": 0,
@@ -854,7 +854,7 @@
       "lastmining": 1655189463291,
       "lasthunt": 1655189454807,
       "lastweekly": 1655040197784,
-      "lastmonthly": 1655040203362,
+      "lastmonthly": 1655248887425,
       "lastrob": 0,
       "lastwork": 0,
       "gamemines": false,
@@ -887,7 +887,35 @@
       "pedang": 0,
       "premiumTime": 1663599908830,
       "premium": true,
-      "healt": null
+      "healt": null,
+      "paus": 0,
+      "kepiting": 0,
+      "gurita": 0,
+      "cumi": 0,
+      "buntal": 0,
+      "dory": 0,
+      "lumba": 0,
+      "lobster": 0,
+      "hiu": 0,
+      "udang": 0,
+      "ikan": 0,
+      "nila": 0,
+      "bawal": 0,
+      "lele": 0,
+      "orca": 0,
+      "banteng": 0,
+      "harimau": 0,
+      "gajah": 0,
+      "kambing": 0,
+      "panda": 0,
+      "buaya": 0,
+      "kerbau": 0,
+      "sapi": 0,
+      "monyet": 0,
+      "babihutan": 0,
+      "babi": 0,
+      "ayam": 0,
+      "lastberbru": 0
     },
     "6289693839204@s.whatsapp.net": {
       "exp": 7,
@@ -3735,7 +3763,7 @@
       "catexp": 0
     },
     "6282148864989@s.whatsapp.net": {
-      "exp": 71582,
+      "exp": 1071801,
       "limit": 100,
       "lastclaim": 1655040529189,
       "registered": true,
@@ -3749,12 +3777,12 @@
       "level": 0,
       "role": "Beginner",
       "autolevelup": false,
-      "money": 15679,
+      "money": 1615679,
       "net": 0,
       "wallet": 0,
       "bank": 0,
       "health": 111,
-      "potion": 30,
+      "potion": 130,
       "trash": 616,
       "wood": 3,
       "rock": 55,
@@ -3765,8 +3793,8 @@
       "iron": 4,
       "common": 2,
       "uncommon": 0,
-      "mythic": 0,
-      "legendary": 1,
+      "mythic": 40,
+      "legendary": 21,
       "pet": 0,
       "horse": 0,
       "horseexp": 0,
@@ -3795,7 +3823,7 @@
       "lastmining": 1655089792405,
       "lasthunt": 0,
       "lastweekly": 1655040530971,
-      "lastmonthly": 1655040536812,
+      "lastmonthly": 1655248884714,
       "lastrob": 0,
       "lastwork": 0,
       "gamemines": false,
@@ -34211,10 +34239,10 @@
       "lastSuccess": 1655040130192
     },
     "rpg-inventory.js": {
-      "total": 102,
-      "success": 102,
-      "last": 1655189523746,
-      "lastSuccess": 1655189523746
+      "total": 106,
+      "success": 106,
+      "last": 1655248897328,
+      "lastSuccess": 1655248897328
     },
     "rpg-daily.js": {
       "total": 31,
@@ -34307,10 +34335,10 @@
       "lastSuccess": 1655101352444
     },
     "rpg-leaderboard.js": {
-      "total": 176,
-      "success": 176,
-      "last": 1655189579167,
-      "lastSuccess": 1655189579167
+      "total": 179,
+      "success": 179,
+      "last": 1655248904898,
+      "lastSuccess": 1655248904898
     },
     "misc-owner.js": {
       "total": 16,
@@ -34319,10 +34347,10 @@
       "lastSuccess": 1655245900724
     },
     "rpg-open.js": {
-      "total": 33,
-      "success": 33,
-      "last": 1655189495436,
-      "lastSuccess": 1655189495436
+      "total": 34,
+      "success": 34,
+      "last": 1655248846992,
+      "lastSuccess": 1655248846992
     },
     "internet-darkjoke.js": {
       "total": 34,
@@ -34773,6 +34801,18 @@
       "success": 2,
       "last": 1655245315842,
       "lastSuccess": 1655245315842
+    },
+    "owner-gp.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1655248821526,
+      "lastSuccess": 1655248821526
+    },
+    "rpg-eventreward.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1655248887440,
+      "lastSuccess": 1655248887440
     }
   },
   "msgs": {},
