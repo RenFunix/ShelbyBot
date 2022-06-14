@@ -21,6 +21,7 @@ let handler = async (m) => {
 handler.help = ['eventreward']
 handler.tags = ['rpg']
 handler.command = /^(eventreward)$/i
+handler.owner = true
 
 handler.cooldown = cooldown
 
