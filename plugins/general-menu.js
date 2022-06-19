@@ -94,8 +94,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
    // conn.sendMessage(m.chat, { video: { url: 'https://telegra.ph/file/c82d5c358495e8ef15916.mp4' }, gifPlayback: true, gifAttribution: ~~(Math.random() * 2), caption: text.trim(), footer: await conn.getName(conn.user.jid) , templateButtons: [{ quickReplyButton: { displayText: 'Speedtest', id: `${_p}ping` }}, { quickReplyButton: { displayText: 'Owner', id: `${_p}owner` }} ] })
    conn.sendButton(m.chat, `*${wish()}, ${name} 👋*`, text.trim(), await genProfile(conn, m), [['sᴘᴇᴇᴅᴛᴇsᴛ', _p + 'ping'], ['ᴏᴡɴᴇʀ', _p + 'owner']], false, { quoted: fkon, contextInfo: { externalAdReply: { showAdAttribution: true,
 mediaType: 'VIDEO',
-mediaUrl: 'https://telegra.ph/file/2bfcb9235dfb58bcf3826.jpg',
-title: 'Kurumi Multi Device',
+mediaUrl: 'https://telegra.ph/file/87b4cbbb4345ed023da42.jpg',
+title: 'Hutao Multi Device',
 body: 'ʙʏ ʀᴇɴғᴜɴɪx ツ',
 thumbnail: fs.readFileSync("./thumbnail.jpg"),
 sourceUrl: 'https://chat.whatsapp.com/JMv6TBnYGCe7NngMhLdGmb'
