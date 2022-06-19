@@ -13,7 +13,7 @@ if (m.isBaileys) return
     // when tagged send sticker 
     try {
         if (m.mentionedJid.includes(this.user.jid) && m.isGroup) {
-            await this.sendFile(m.chat, stcs, 'tag.webp', '', m, false, {sendEphemeral: true})
+            await this.sendFile(m.chat, stcs, 'kenapa tag saya kak?', '', m, false, {sendEphemeral: true})
         }
     } catch (e) {
         return
