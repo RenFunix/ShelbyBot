@@ -9,9 +9,9 @@ global.owner = [
   ['+62 821-4886-4989'],
   ['+1 470-823-5045'],
   ['6282148864989', 'ʀᴇɴғᴜɴɪx ツ', true],
-  ['+1 470-823-5045', 'sʜᴇʟʙʏ ʙᴏᴛ', true],
+  ['+1 470-823-5045', 'Hutao-MD', true],
   ['+62 821 4886 4989', 'ʀᴇɴғᴜɴɪx ツ', true],
-  ['+1 470-823-5045', 'sʜᴇʟʙʏ ʙᴏᴛ', true],
+  ['+1 470-823-5045', 'Hutao-MD', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -39,11 +39,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 𝗦𝗵𝗲𝗹𝗯𝘆 𝗕𝗼𝘁 あ⁩ 」' //Main Watermark
+global.wm = '                「 Hutao-MD あ⁩ 」' //Main Watermark
 
 global.wm2 = '© ʀᴇɴғᴜɴɪx ツ'
 
-global.wm3 = '⫹⫺ 𝗦𝗵𝗲𝗹𝗯𝘆 𝗕𝗼𝘁'
+global.wm3 = '⫹⫺ Hutao-MD'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
@@ -52,7 +52,7 @@ global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:m
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 𝗦𝗵𝗲𝗹𝗯𝘆 𝗕𝗼𝘁 あ⁩ 」'
+global.author = '                「 Hutao-MD あ⁩ 」'
 
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
@@ -79,7 +79,7 @@ global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://t
 /*============== NOMOR ==============*/
 global.nomorbot = '14708235045'
 global.nomorown = '6282148864989'
-global.namebot = 'sʜᴇʟʙʏ ʙᴏᴛ'
+global.namebot = 'Hutao-MD'
 global.nameown = 'ʀᴇɴғᴜɴɪx ツ'
 
 /*=========== FAKE SIZE ===========*/
