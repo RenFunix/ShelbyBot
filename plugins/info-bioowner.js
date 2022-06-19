@@ -1,7 +1,7 @@
 let handler = async (m, { conn, args, usedPrefix, command }) => {
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `*───────[ ᴏᴡɴᴇʀ ʙɪᴏ ]───────*
-*💌 ɴᴀᴍᴇ* : sʜᴇʟʙʏ ʙᴏᴛ
+*💌 ɴᴀᴍᴇ* : Kurumi-MD
 *✉️ ʀᴇᴀʟɴᴀᴍᴇ* : ᴀɴᴅɪ
 *♂️ ɢᴇɴᴅᴇʀ* : ʙᴏʏs
 *🕋 ʀᴇʟɪɪɢɪᴏɴ* : ɪsʟᴀᴍs
